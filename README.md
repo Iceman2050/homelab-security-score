@@ -1,3 +1,5 @@
+[![AI Security Score](https://ingeniousai-security-checks.netlify.app/badges/homelab-security-score.svg)](https://ingeniousai-security-checks.netlify.app/ai-security-badge.html)
+
 # homelab-security-score
 
 Point it at your homelab configs. Get a security score with concrete fixes.
