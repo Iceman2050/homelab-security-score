@@ -31,7 +31,7 @@ variable and the location, never the value.
 No dependencies. Python 3.8+ only.
 
 ```bash
-git clone https://github.com/YOUR-ORG/homelab-security-score.git
+git clone https://github.com/Iceman2050/homelab-security-score.git
 cd homelab-security-score
 python3 score.py --compose /path/to/docker-compose.yml
 ```
